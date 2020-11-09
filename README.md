@@ -19,5 +19,6 @@
 <br><br><img width="996" alt="Screen Shot 2020-11-08 at 7 17 53 PM" src="https://user-images.githubusercontent.com/54564733/98490448-29642600-21f7-11eb-8fec-45db21926df7.png"><br>
 
 <p align="center">
-  <img width="615" alt="Screen Shot 2020-11-07 at 9 59 48 PM" src="https://user-images.githubusercontent.com/54564733/98481920-6c0c0b00-21c3-11eb-9823-c892f518cf0a.png">
+  <img width="761" alt="Screen Shot 2020-11-08 at 7 13 44 PM" src="https://user-images.githubusercontent.com/54564733/98490483-43056d80-21f7-11eb-8479-6caa557e5e03.png">
+
 </p>
